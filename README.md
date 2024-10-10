@@ -34,7 +34,7 @@ This is a simple API built using Go that includes authentication. The API utiliz
 
 4. Run the application:
 
-    ```bash.
+    ```bash
     go run main.go
     ```
 
