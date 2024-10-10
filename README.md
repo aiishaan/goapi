@@ -27,7 +27,7 @@ This is a simple API built using Go that includes authentication. The API utiliz
 
 3. Set up environment variables (e.g., database connection string, JWT secret):
 
-    ```bash.
+    ```bash
     export DB_CONNECTION_STRING="your_database_connection_string"
     export JWT_SECRET="your_jwt_secret"
     ```
