@@ -15,7 +15,7 @@ This is a simple API built using Go that includes authentication. The API utiliz
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/go-simple-api.git
+    git clone https://github.com/your-username/go-simple-api.git.
     cd go-simple-api
     ```
 
