@@ -29,7 +29,7 @@ This is a simple API built using Go that includes authentication. The API utiliz
 
     ```bash
     export DB_CONNECTION_STRING="your_database_connection_string"
-    export JWT_SECRET="your_jwt_secret"
+    export JWT_SECRET="your_jwt_secret".
     ```
 
 4. Run the application:
