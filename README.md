@@ -10,7 +10,7 @@ This is a simple API built using Go that includes authentication. The API utiliz
 
 ## Getting Started
 
-### Installation
+### Installation.
 
 1. Clone the repository:
 
