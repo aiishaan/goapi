@@ -1,16 +1,16 @@
 # Simple Go API with Authentication
 
-This is a simple API built using Go that includes authentication. The API utilizes token-based authentication to secure access to its endpoints.
+This is a simple API built using Go that includes authentication. The API utilizes token-based authentication to secure access to its endpoints
 
 
 ## Requirements
 
 - Go 1.18+
-- A PostgreSQL or SQL-based database (optional, based on your setup).
+- A PostgreSQL or SQL-based database (optional, based on your setup)
 
 ## Getting Started
 
-### Installation.
+### Installation
 
 1. Clone the repository:
 
