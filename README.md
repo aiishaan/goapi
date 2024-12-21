@@ -6,9 +6,9 @@ This is a simple API built using Go that includes authentication. The API utiliz
 ## Requirements
 
 - Go 1.18+
-- A PostgreSQL or SQL-based database (optional, based on your setup)
+- A PostgreSQL or SQL-based database (optional, based on your setup).
 
-## Getting Started
+## Getting Started.
 
 ### Installation
 
