@@ -1,6 +1,6 @@
 # Simple Go API with Authentication
 
-This is a simple API built using Go that includes authentication. The API utilizes token-based authentication to secure access to its endpoints
+This is a simple API built using Go that includes authentication. The API utilizes token-based authentication to secure access to its endpoints.
 
 
 ## Requirements
